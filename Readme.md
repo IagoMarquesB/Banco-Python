@@ -16,6 +16,6 @@ Nesse sistema simples, é possível sacar, depositar e visualizar o extrato.
 
 Olha o saldo atual e as operações realizadas anteriormente
 
-###Versão 2
+### Versão 2
 
 Na segunda versão, é preciso criar usuario e conta para realizar as operações, e todos as operações estão armazenadas em funções.
